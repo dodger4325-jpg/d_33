@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "libraries": [
+    {
+      "file": "liba.so",
+      "mirrors": [
+        "https://raw.githubusercontent.com/dodger4325/d_33/main/liba.so",
+        "https://cdn.jsdelivr.net/gh/dodger4325/d_33/main/liba.so",
+        "https://raw.fastgit.org/dodger4325/d_33/main/liba.so",
+        "https://ghproxy.com/https://raw.githubusercontent.com/dodger4325/d_33/main/liba.so",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dodger4325/d_33/main/liba.so",
+        "https://raw.gitmirror.com/dodger4325/d_33/main/liba.so"
+      ]
+    }
+  ]
+}
